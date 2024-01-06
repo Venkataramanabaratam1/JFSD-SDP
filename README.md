@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Student Course Management System</h1>
 
-<p align="center"><img src="https://socialify.git.ci/vachaspathi6/JFSD-SDP/image?language=1&amp;owner=1&amp;name=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/venkataramanabaratam1/JFSD-SDP/image?language=1&amp;owner=1&amp;name=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
 <p id="description">Our platform Student Course Management System simplifies the learning experience by combining course engagement performance evaluation and progress monitoring. This platform promotes student involvement by providing easy-to-use navigation a centralized resource hub and interactive communication tools. The system's adaptability enhances administrative efficiency and elevates the learning experience in various educational contexts.</p>
 
